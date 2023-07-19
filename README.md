@@ -1,1 +1,5 @@
 # digital_clock_using_python
+A digital clock is a timekeeping device that displays the current time in a numeric format. The goal of this project is to design a program that accurately shows the current time in hours, minutes, and seconds, updating in real-time.
+To accomplish this, Python's built-in libraries and functions can be utilized, such as the time module, which provides access to various time-related functionalities. The project typically begins with importing the necessary modules and defining the main function.
+In the main function, the program can use a loop to continuously update the time display every second. To create the visual interface, the project may employ external libraries like tkinter, which allows for the creation of graphical user interfaces. The digital clock's design may include a simple window displaying the time in a readable format.
+The final output should be a functioning digital clock that displays the current time and updates dynamically as time progresses. By running the Python script, users can observe a real-time representation of the current hour, minute, and second, all within the confines of the graphical user interface
